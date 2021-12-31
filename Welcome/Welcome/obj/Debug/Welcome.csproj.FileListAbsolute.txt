@@ -1,0 +1,7 @@
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome\Welcome\bin\Debug\Welcome.exe.config
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome\Welcome\bin\Debug\Welcome.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome\Welcome\bin\Debug\Welcome.pdb
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome\Welcome\obj\Debug\Welcome.csproj.AssemblyReference.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome\Welcome\obj\Debug\Welcome.csproj.CoreCompileInputs.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome\Welcome\obj\Debug\Welcome.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Welcome\Welcome\obj\Debug\Welcome.pdb
