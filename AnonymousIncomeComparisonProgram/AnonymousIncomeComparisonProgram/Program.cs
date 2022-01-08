@@ -27,9 +27,9 @@ namespace AnonymousIncomeComparisonProgram
             string strHoursWorked2 = Console.ReadLine();
             int p2HoursWorked = Convert.ToInt32(strHoursWorked2);
 
-            //  Not an accurate number, basing it on hours worked per week and multiplying it by 4 weeks a month and then 12 months for a year
-            int p1Annual = p1Rate * p1HoursWorked * 48;
-            int p2Annual = p2Rate * p2HoursWorked * 48;
+            //  number of hours worked per week multiplied by 52 weeks in a year
+            int p1Annual = p1Rate * p1HoursWorked * 52;
+            int p2Annual = p2Rate * p2HoursWorked * 52;
 
             //  Prints message with annual salary to console
             Console.WriteLine("Annual salary of Person 1: \n" + p1Annual);
