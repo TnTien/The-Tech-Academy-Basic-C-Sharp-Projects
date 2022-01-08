@@ -1,0 +1,7 @@
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.AssemblyReference.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingAssignment\BranchingAssignment\obj\Debug\BranchingAssignment.pdb
