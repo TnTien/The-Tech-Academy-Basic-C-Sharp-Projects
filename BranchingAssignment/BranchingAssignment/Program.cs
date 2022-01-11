@@ -14,30 +14,39 @@ namespace BranchingAssignment
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below.\nPlease enter the package weight: ");
             //  converts input to int and saves to int variable
             int pkgWeight = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Please enter the package width: ");
-            int pkgWidth = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Please enter the package height: ");
-            int pkgHeight = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Please enter the package lenght: ");
-            int pkgLength = Convert.ToInt32(Console.ReadLine());
-
-            //  adds the dimensions
-            int totalDimension = pkgHeight + pkgLength + pkgWidth;
-            //  calculates the price
-            int totalPrice = pkgHeight * pkgLength * pkgWidth * pkgWeight / 100;
-
-            if (totalDimension <= 50)
+            if (pkgWeight <= 50)
             {
-                //  if condition is true, will print this message to console
-                Console.WriteLine("Your estimated total for shipping this package is: $" + totalPrice + ".00\nThank you!");
+                //  if condition is met, these code will run
+                Console.WriteLine("Please enter the package width: ");
+                int pkgWidth = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Please enter the package height: ");
+                int pkgHeight = Convert.ToInt32(Console.ReadLine());
+
+                Console.WriteLine("Please enter the package length: ");
+                int pkgLength = Convert.ToInt32(Console.ReadLine());
+
+                //  adds the dimensions
+                int totalDimension = pkgHeight + pkgLength + pkgWidth;
+                //  calculates the price
+                int totalPrice = pkgHeight * pkgLength * pkgWidth * pkgWeight / 100;
+
+                if (totalDimension <= 50)
+                {
+                    //  if condition is true, will print this message to console
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + totalPrice + ".00\nThank you!");
+                }
+                else
+                {   //  if condition is false, will print this message to console
+                    Console.WriteLine("Package too big to be shipped via Package Express");
+                }
             }
             else
-            {   //  if condition is false, will print this message to console
-                Console.WriteLine("Package too big to be shipped via Package Express");
+            {
+                //  if condition is not met, console will display this message and end the program
+                Console.WriteLine("Package too heave to be shipped via Package Express. Have a good day.");
             }
+
             //  keeps console running until user exits
             Console.ReadLine();
         }
