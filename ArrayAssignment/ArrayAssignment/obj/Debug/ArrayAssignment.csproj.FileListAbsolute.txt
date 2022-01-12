@@ -1,0 +1,7 @@
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.AssemblyReference.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csproj.CoreCompileInputs.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.pdb
