@@ -113,7 +113,7 @@ class Program
             {
                 //  console will print a message and have user input another string
                 Console.WriteLine(nameGuessed + " is not part the list.");
-                Console.WriteLine("Guess again.");
+                Console.WriteLine("Guess another name.");
                 nameGuessed = Console.ReadLine();
                 //  this will reset the counter to negative one, the for loop will add 1 to i and so i is back to 0 to begin the loop again
                 i = -1;
