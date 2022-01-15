@@ -8,6 +8,7 @@ class Program
     static void Main(string[] args)
     {
         //  Part 1
+        Console.WriteLine("Part 1");
         //  one-dimensional array of strings
         string[] arrayNames = { "John", "Jacob", "Jesse", "Jessica", "Julia" };
 
@@ -32,6 +33,7 @@ class Program
         Console.ReadLine();
 
         //  Part 2
+        Console.WriteLine("Part 2");
         int num = 0;
 
         //  will result in an infinite loop
@@ -52,6 +54,8 @@ class Program
         Console.ReadLine();
 
         //  Part 3
+        Console.WriteLine("Part 3");
+        Console.WriteLine("0 < 10");
         int k = 0;
         //  will loop until k is 9
         while (k < 10)
@@ -62,6 +66,7 @@ class Program
         Console.ReadLine();
 
         int l = 0;
+        Console.WriteLine("0 <= 10");
         //  will loop until l is 10
         while (l <= 10)
         {
@@ -71,6 +76,7 @@ class Program
         Console.ReadLine();
 
         //  Part 4
+        Console.WriteLine("Part 4");
         //  creates a List of string and initializes it
         List<string> listNames = new List<string>();
 
@@ -116,6 +122,7 @@ class Program
         Console.ReadLine();
 
         //  Part 5
+        Console.WriteLine("Part 5");
         //  creates a list of string and initializes it
         List<string> Letters = new List<string>();
 
@@ -156,7 +163,7 @@ class Program
                 break;
             }
             //  if the loop has reached the end of the List and the counter is greater than or equal to 2
-            else if (count >= 1 && i == Letters.Count - 1)
+            else if (count > 0 && i == Letters.Count - 1)
             {
                 Console.WriteLine(letterInput + " occurs at index: ");
                 //  this will display each element in the int List
@@ -169,6 +176,7 @@ class Program
         Console.ReadLine();
 
         //  Part 6
+        Console.WriteLine("Part 6");
         //  creates a list of string
         List<string> verbList = new List<string>();
         //  adds string to list
