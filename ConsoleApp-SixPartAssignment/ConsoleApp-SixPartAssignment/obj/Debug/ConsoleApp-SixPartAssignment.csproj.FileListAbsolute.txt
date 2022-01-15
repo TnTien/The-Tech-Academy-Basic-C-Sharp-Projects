@@ -1,0 +1,7 @@
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-SixPartAssignment\ConsoleApp-SixPartAssignment\bin\Debug\ConsoleApp-SixPartAssignment.exe.config
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-SixPartAssignment\ConsoleApp-SixPartAssignment\bin\Debug\ConsoleApp-SixPartAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-SixPartAssignment\ConsoleApp-SixPartAssignment\bin\Debug\ConsoleApp-SixPartAssignment.pdb
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-SixPartAssignment\ConsoleApp-SixPartAssignment\obj\Debug\ConsoleApp-SixPartAssignment.csproj.AssemblyReference.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-SixPartAssignment\ConsoleApp-SixPartAssignment\obj\Debug\ConsoleApp-SixPartAssignment.csproj.CoreCompileInputs.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-SixPartAssignment\ConsoleApp-SixPartAssignment\obj\Debug\ConsoleApp-SixPartAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp-SixPartAssignment\ConsoleApp-SixPartAssignment\obj\Debug\ConsoleApp-SixPartAssignment.pdb
