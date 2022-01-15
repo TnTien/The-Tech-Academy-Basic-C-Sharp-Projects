@@ -156,7 +156,7 @@ class Program
                 break;
             }
             //  if the loop has reached the end of the List and the counter is greater than or equal to 2
-            else if (count >= 2 && i == Letters.Count - 1)
+            else if (count >= 1 && i == Letters.Count - 1)
             {
                 Console.WriteLine(letterInput + " occurs at index: ");
                 //  this will display each element in the int List
