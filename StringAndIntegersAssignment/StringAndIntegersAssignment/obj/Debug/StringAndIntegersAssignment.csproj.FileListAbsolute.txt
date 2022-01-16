@@ -1,0 +1,7 @@
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\StringAndIntegersAssignment.exe.config
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\StringAndIntegersAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\bin\Debug\StringAndIntegersAssignment.pdb
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\StringAndIntegersAssignment.csproj.AssemblyReference.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\StringAndIntegersAssignment.csproj.CoreCompileInputs.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\StringAndIntegersAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\StringAndIntegersAssignment\StringAndIntegersAssignment\obj\Debug\StringAndIntegersAssignment.pdb
