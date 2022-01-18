@@ -8,6 +8,7 @@ namespace MethodClassAssignment
 {
     class operations
     {
+        //  void method taking 2 int parameters
         public void Add(int num, int num2)
         {
             int numTotal = num + num2;

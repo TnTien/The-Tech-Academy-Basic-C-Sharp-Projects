@@ -1,0 +1,7 @@
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Class Assignment\Class Assignment\bin\Debug\Class Assignment.exe.config
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Class Assignment\Class Assignment\bin\Debug\Class Assignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Class Assignment\Class Assignment\bin\Debug\Class Assignment.pdb
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Class Assignment\Class Assignment\obj\Debug\Class Assignment.csproj.AssemblyReference.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Class Assignment\Class Assignment\obj\Debug\Class Assignment.csproj.CoreCompileInputs.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Class Assignment\Class Assignment\obj\Debug\Class Assignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\Class Assignment\Class Assignment\obj\Debug\Class Assignment.pdb
