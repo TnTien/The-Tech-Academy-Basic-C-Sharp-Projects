@@ -1,0 +1,7 @@
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.csproj.AssemblyReference.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.csproj.CoreCompileInputs.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.exe.config
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\bin\Debug\MethodsAndObjectsAssignment.pdb
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsAndObjectsAssignment\MethodsAndObjectsAssignment\obj\Debug\MethodsAndObjectsAssignment.pdb
