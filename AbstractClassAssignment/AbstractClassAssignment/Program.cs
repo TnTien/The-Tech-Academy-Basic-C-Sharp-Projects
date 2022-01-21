@@ -10,6 +10,7 @@ namespace AbstractClassAssignment
     {
         static void Main(string[] args)
         {
+
             //  instantiates and initializes Employee class
             Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
             //  calls the SayName method
@@ -21,6 +22,13 @@ namespace AbstractClassAssignment
             IQuittable quit = new Employee();
             //  calls the Quit() method.
             quit.Quit();
+
+
+            //  instantiates and initializes Employee class with ID
+            Employee employee1 = new Employee() { ID = 51 };
+            Employee employee2 = new Employee() { ID = 51 };
+            //  compares the ID of both employees without have to employee1.ID == employee2.ID
+            Console.WriteLine(employee1 == employee2);
             Console.ReadLine();
         }
     }
