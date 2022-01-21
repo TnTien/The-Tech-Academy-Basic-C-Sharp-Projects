@@ -6,13 +6,19 @@ using System.Threading.Tasks;
 
 namespace AbstractClassAssignment
 {
-    //  Employee class, inherited class from Person
-    class Employee : Person
+    //  Employee class, inherited class from Person, inherited interface from IQuittable
+    class Employee : Person, IQuittable
     {
         //  SayName is implemented here
         public override void SayName()
         {
             Console.WriteLine(firstName + " " + lastName);
+        }
+
+        //  Quit method is impleted, print to console
+        public void Quit()
+        {
+            Console.WriteLine("I quit");
         }
     }
 }

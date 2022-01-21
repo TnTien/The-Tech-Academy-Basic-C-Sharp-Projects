@@ -14,6 +14,13 @@ namespace AbstractClassAssignment
             Employee employee = new Employee() { firstName = "Sample", lastName = "Student" };
             //  calls the SayName method
             employee.SayName();
+
+            employee.Quit();
+
+            //  instantiates IQuittable type object from Employee class
+            IQuittable quit = new Employee();
+            //  calls the Quit() method.
+            quit.Quit();
             Console.ReadLine();
         }
     }
