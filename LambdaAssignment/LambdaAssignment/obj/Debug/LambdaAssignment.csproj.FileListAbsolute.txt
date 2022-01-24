@@ -1,0 +1,7 @@
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.AssemblyReference.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaAssignment\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+D:\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaAssignment\LambdaAssignment\obj\Debug\LambdaAssignment.pdb
