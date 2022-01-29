@@ -14,6 +14,7 @@ namespace ConstructorAssignment
             const string  con= "constant";
             //  implicitly typed var
             var newList = new List<string>();
+
         }
     }
 }

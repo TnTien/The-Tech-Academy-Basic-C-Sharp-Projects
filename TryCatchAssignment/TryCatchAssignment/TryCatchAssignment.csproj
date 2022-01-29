@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{17C7956E-A291-4B45-8203-D958AE88F25F}</ProjectGuid>
+    <ProjectGuid>{DB5190A6-BA85-4A09-96E4-9149322DCEDD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConstructorAssignment</RootNamespace>
-    <AssemblyName>ConstructorAssignment</AssemblyName>
+    <RootNamespace>TryCatchAssignment</RootNamespace>
+    <AssemblyName>TryCatchAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Person.cs" />
+    <Compile Include="InvalidNumberException.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
