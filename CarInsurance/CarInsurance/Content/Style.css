@@ -1,0 +1,40 @@
+﻿
+.jumbotron {
+    background-image: url("../Content/Images/road.jpg");
+    color: white;
+    height: 400px;
+    align-items: center;
+    background-size: 100% 100%;
+    margin-top: 1.5rem;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+thead th {
+    width: 25%;
+    background-color: #333;
+    color: white;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 2%;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+tbody tr:nth-child(even) {
+    background-color: #eee;
+}
